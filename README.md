@@ -32,8 +32,15 @@ Here are some ideas to get you started:
 - :world_map: In love with maps and travel 
 
 ###  Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+
+Prefffered distro:
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/-KDE-informational?style=flat&logo=kde&logoColor=white&color=1D99F3)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
@@ -59,3 +66,7 @@ Here are some ideas to get you started:
 
 ### Hobbies
 :tennis: :swimmer: :bicyclist: :camera_flash:
+
+[README made with help of this article](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+
+
