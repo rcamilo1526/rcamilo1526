@@ -72,6 +72,18 @@ Preffered distro : Kubuntu
 ### Hobbies
 :tennis: :swimmer: :bicyclist: :camera_flash:
 
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.1]][1].
+
+<!-- Icons -->
+
+[1.1]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg
+
+[1]: https://www.linkedin.com/in/ra%C3%BAl-camilo-mart%C3%ADn-bernal/
+
+
 [README made with help of this article](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
 
 
