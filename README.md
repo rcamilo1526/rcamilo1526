@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+
 - :briefcase: I'm currently working in Esri Colombia and making tasks of Data Engineer, Analytics and mapping
 - :notebook: Student of Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
