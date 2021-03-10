@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- I'm currently working in Esri Colombia and making tasks od Data Engineer and Analytics
-
+- :briefcase: I'm currently working in Esri Colombia and making tasks of Data Engineer, Analytics and mapping
 - :notebook: Student of Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
-- I'm an appasionate of Data Science specially Spatial Sata Science and the field of Computer Vision. 
+- :computer: I'm an appasionate of Data Science specially Spatial Sata Science and the field of Computer Vision. 
 
-- I also have some knowledge in WebDev and DevOps. 
+- :ok_hand: I also have some knowledge in WebDev and DevOps. 
 
 - :nerd_face: Learning new things every day that I can.
 
@@ -34,13 +33,11 @@ Here are some ideas to get you started:
 ###  Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
-
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 
-Preffered distro:
+Preffered distro :      |
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/-KDE-informational?style=flat&logo=kde&logoColor=white&color=1D99F3)
+![](https://img.shields.io/badge/-KDE-informational?style=flat&logo=kde&logoColor=white&color=1D99F3)|
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
@@ -60,9 +57,9 @@ Preffered distro:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
-![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon_aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
 
 
 
