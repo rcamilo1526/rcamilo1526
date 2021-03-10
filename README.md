@@ -75,13 +75,23 @@ Preffered distro : Kubuntu
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.1]][1].
+You can find me on [![LinkedIn][1.1]][1] or on [![Kaggle][2.1]][2].
+
+My gitlab :see_no_evil: [![LinkedIn][3.1]][3] 
 
 <!-- Icons -->
 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/ra%C3%BAl-camilo-mart%C3%ADn-bernal/
+
+[2.1]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
+
+[2]: https://www.kaggle.com/rmartin1526
+
+[3.1]: https://img.shields.io/badge/GitLab-0077B5?style=for-the-badge&logo=gitlab&logoColor=white
+
+[3]: https://gitlab.com/rcamilo1526
 
 
 [README made with help of this article](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
