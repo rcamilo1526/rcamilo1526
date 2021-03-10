@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Library-pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/Library-Scikit_Learn-informational?style=flat&logo=scikit-learnt&logoColor=white&color=F7931E)
-![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
-![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/-pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/-Scikit_Learn-informational?style=flat&logo=scikit-learnt&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
