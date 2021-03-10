@@ -38,22 +38,24 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 
-Prefffered distro:
+Preffered distro:
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/-KDE-informational?style=flat&logo=kde&logoColor=white&color=1D99F3)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
