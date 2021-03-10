@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+- I'm currently working in Esri Colombia and making tasks od Data Engineer and Analytics
 
-I'm currently working in Esri Colombia and making tasks od Data Engineer and Analytics
-:notebook: Student of Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
-I'm an appasionate of Data Science specially Spatial Sata Science and the field of Computer Vision. 
-I also have some knowledge in WebDev and DevOps. 
-:nerd_face: Learning new things every day that I can.
-🌱 Cultivating knowledge on MLOps.
-:world_map: In love with maps and travel 
+- :notebook: Student of Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
+
+- I'm an appasionate of Data Science specially Spatial Sata Science and the field of Computer Vision. 
+
+- I also have some knowledge in WebDev and DevOps. 
+
+- :nerd_face: Learning new things every day that I can.
+
+- 🌱 Cultivating knowledge on MLOps.
+- 
+- :world_map: In love with maps and travel 
 
 ### Hobbies
 :tennis: :swimmer: :bicyclist: :camera_flash:
