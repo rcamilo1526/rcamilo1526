@@ -79,7 +79,7 @@ You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
-[1.1]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/ra%C3%BAl-camilo-mart%C3%ADn-bernal/
 
