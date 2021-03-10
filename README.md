@@ -89,7 +89,7 @@ My gitlab :see_no_evil: [![LinkedIn][3.1]][3]
 
 [2]: https://www.kaggle.com/rmartin1526
 
-[3.1]: https://img.shields.io/badge/GitLab-0077B5?style=for-the-badge&logo=gitlab&logoColor=white
+[3.1]: https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
 
 [3]: https://gitlab.com/rcamilo1526
 
