@@ -70,7 +70,7 @@ Preffered distro : Kubuntu
 
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon&logoColor=white&color=232F3E)
 
-![](https://img.shields.io/badge/Tools-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=E25A1C)
+![](https://img.shields.io/badge/Tools-Apache Spark-informational?style=flat&logo=apachespark&logoColor=white&color=E25A1C)
 
 
 ### Hobbies
