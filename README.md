@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - :ok_hand: I also have some knowledge in WebDev and DevOps. 
 
-- :nerd_face: Learning new things every day that I can.
+- :nerd_face: Learning new things every day.
 
 - 🌱 Cultivating knowledge on MLOps.
 
@@ -64,6 +64,7 @@ Preffered distro : Kubuntu
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon&logoColor=white&color=232F3E)
 
