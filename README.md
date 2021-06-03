@@ -58,6 +58,8 @@ Preffered distro : Kubuntu
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=44A833)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
@@ -68,6 +70,7 @@ Preffered distro : Kubuntu
 
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon&logoColor=white&color=232F3E)
 
+![](https://img.shields.io/badge/Tools-ApacheSpark-informational?style=flat&logo=apachespark&logoColor=white&color=E25A1C)
 
 
 ### Hobbies
