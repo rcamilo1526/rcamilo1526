@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :briefcase: I'm currently working in Esri Colombia and making tasks of Data Engineer, Analytics and mapping
+- :briefcase: I'm currently working in RappiPay #fintech #rappi as Data Engineer.
 - :notebook: Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
 - :computer: I'm an appasionate of Data Science specially Spatial Data Science and the field of Computer Vision. 
