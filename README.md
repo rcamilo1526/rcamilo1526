@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Editor-Rstudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
+![](https://img.shields.io/badge/IDE-Rstudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
 
 
 ## Languages
@@ -57,11 +57,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=feb300)
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+
 ![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/-pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+
 ![](https://img.shields.io/badge/-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=FF4B4B)
 
