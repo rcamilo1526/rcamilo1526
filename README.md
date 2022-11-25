@@ -121,7 +121,7 @@ My gitlab :see_no_evil: [![LinkedIn][3.1]][3]
 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white
 
-[1]: https://www.linkedin.com/in/ra%C3%BAl-camilo-mart%C3%ADn-bernal/
+[1]: https://www.linkedin.com/in/raul-camilo-martin-bernal/
 
 [2.1]: https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white
 
