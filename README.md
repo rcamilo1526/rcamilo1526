@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
+![](https://img.shields.io/badge/IDE-DataGrip-informational?style=flat&logo=datagrip&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/IDE-Rstudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
 
 
