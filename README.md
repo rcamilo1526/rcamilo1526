@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - :briefcase: I'm currently working in Globant as Semi Senior Data Engineer.
-- :notebook: Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
-- :computer: I'm an appasionate of Data Science specially Spatial Data Science and the field of Computer Vision. 
+- :computer: I'm an appasionate of all of this new AI environment. 
 
 - :ok_hand: I also have some knowledge in WebDev and DevOps. 
 
@@ -26,7 +25,9 @@ Here are some ideas to get you started:
 
 - 🌱 Cultivating knowledge on MLOps.
 
-- :world_map: In love with maps and travel 
+- :world_map: In love with maps and travel
+
+- :notebook: Also Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
 #  Technologies & Tools
 
