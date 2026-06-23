@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :briefcase: I'm currently working in Globant as Semi Senior Data Engineer.
+- :briefcase: I'm currently working in Epam as Senior Data Engineer.
 
-- :computer: I'm an appasionate of all of this new AI environment. 
+- :computer: I'm an appasionate of all of this AI an Architecture. 
 
 - :ok_hand: I also have some knowledge in WebDev and DevOps. 
 
 - :nerd_face: Learning new things every day.
 
-- 🌱 Cultivating knowledge on MLOps.
+- 🌱 Cultivating knowledge.
 
-- :world_map: In love with maps and travel
+- :world_map: In love with maps, travel and sports
 
 - :notebook: Also Cadastral and Geodesic Engineer, experience in GIS Geographic Information Systems.
 
